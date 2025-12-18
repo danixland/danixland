@@ -10,4 +10,6 @@ I'm working my way to become a cybersecurity analyst.
   </a>
 </p>
 
+<p align="center">
 [![danixland's GitHub stats](https://github-readme-stats.vercel.app/api?username=danixland&show_icons=true&theme=tokyonight)](https://github.com/danixland)
+</p>
