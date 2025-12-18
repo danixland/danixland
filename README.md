@@ -1,4 +1,4 @@
-# Hi, my name is danix.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+my+name+is+danix+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm working my way to become a cybersecurity analyst. 
 
