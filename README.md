@@ -9,3 +9,5 @@ I'm working my way to become a cybersecurity analyst.
     <img src="https://skillicons.dev/icons?i=git,github,bash,regex,docker,py,php,mysql,css,html,jquery,sass,less,wordpress,linux,debian,kali,md,neovim,sublime&perline=10" />
   </a>
 </p>
+
+[![danixland's GitHub stats](https://github-readme-stats.vercel.app/api?username=danixland)](https://github.com/danixland)
