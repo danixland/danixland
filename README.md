@@ -10,4 +10,12 @@ I'm working my way to become a cybersecurity analyst.
   </a>
 </p>
 
-[![danixland's GitHub stats](https://github-readme-stats.vercel.app/api?username=danixland&show_icons=true&theme=tokyonight)](https://github.com/danixland)
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=danixland&show_icons=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=danixland&show_icons=true&theme=tokyonight" alt="Profile Stats"/>
+</div>
