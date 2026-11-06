@@ -24,6 +24,13 @@ jobs:
           # Default writes an error card over the last good SVG.
           fail_on_error: "true"
 
+      - name: Generate streak card
+        # Pinned to v1.8.2: third-party action running with a write token.
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&border_radius=10
+          path: profile/streak.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
