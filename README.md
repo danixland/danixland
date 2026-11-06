@@ -15,7 +15,7 @@ I'm working my way to become a cybersecurity analyst.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=danixland&show_icons=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
+  <img width=390 src="./profile/streak.svg" alt="Streak Stats"/>
     <br/><br/>
     <img src="./profile/stats.svg" alt="Profile Stats"/>
 </div>
